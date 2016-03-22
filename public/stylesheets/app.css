@@ -1,0 +1,17 @@
+header {
+    background-color: #244751;
+    color: #E8FDFF;
+}
+
+main {
+    background-color: white;
+    padding: 16px;
+}
+
+.post {
+    margin_bottom: 48px;
+}
+
+.post .user-info img {
+    border-radius: 50%;
+}
